@@ -1,4 +1,3 @@
 Chess
 =====
-
-Chess, which was a homework
+Simple Chess for two players
